@@ -1,4 +1,4 @@
-test_that("square function does square things", {
+test_that("square function does things", {
   expect_equal(square(2), 4)
   expect_equal(square(0), 0)
   expect_equal(square(-3), 9)
